@@ -2,6 +2,11 @@
 
 Have you wondered what it takes to go from a Jupyter user to a Jupyter pro? Wonder no more. Safia Abdalla explores the core concepts of the Jupyter ecosystem, including the extensions ecosystem, the kernel ecosystem, and the frontend architecture, leaving you with an understanding of the possibilities of the Jupyter ecosystem and practical skills on customizing the Jupyter Notebook experience.
 
+**Prerequisites**
+
+* [Install nteract](https://github.com/nteract/nteract/releases/latest) or [IJavaScript](https://github.com/n-riesco/ijavascript) for the JavaScript primer
+* [Install Jupyter](http://jupyter.readthedocs.io/en/latest/install.html) (and Python) for the nbextension tutorial
+
 **Outline**
 
 * Introduction (15 minutes)
